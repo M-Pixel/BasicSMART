@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>BasicSMART</id>
+    <version>$version$</version>
+    <title>BasicSMART</title>
+    <authors>rstarkov</authors>
+    <owners>rstarkov</owners>
+    <projectUrl>https://github.com/rstarkov/BasicSMART</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A very basic library to retrieve information about physical drives, along with SMART data</description>
+    <copyright>Copyright 2018 Roman Starkov</copyright>
+    <tags>hdd smart</tags>
+  </metadata>
+</package>
